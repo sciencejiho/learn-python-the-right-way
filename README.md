@@ -1,5 +1,5 @@
 # learn-python-the-right-way
-![MP1](https://github.com/sciencejiho/CS421/workflows/MP1/badge.svg)&nbsp;![MP2](https://github.com/sciencejiho/CS421/workflows/MP2/badge.svg)&nbsp;![MP3](https://github.com/sciencejiho/CS421/workflows/MP3/badge.svg)&nbsp;![MP4](https://github.com/sciencejiho/CS421/workflows/MP4/badge.svg)&nbsp;![MP5](https://github.com/sciencejiho/CS421/workflows/MP5/badge.svg)
+![](https://img.shields.io/badge/Unit%2001-passing-brightgreen)&nbsp;![](https://img.shields.io/badge/Unit%2002-passing-brightgreen)&nbsp;![](https://img.shields.io/badge/Unit%2003-passing-brightgreen)&nbsp;![](https://img.shields.io/badge/Unit%2004-passing-brightgreen)&nbsp;![](https://img.shields.io/badge/Unit%2005-passing-brightgreen)&nbsp;![](https://img.shields.io/badge/Unit%2006-passing-brightgreen)&nbsp;![](https://img.shields.io/badge/Unit%2007-passing-brightgreen)
 
 Practice Problems and solutions of the the book "Learn Python the Right Way".
 
